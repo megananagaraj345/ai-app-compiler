@@ -251,7 +251,7 @@ Build a CRM with authentication, contacts, analytics dashboard, payments, and ro
             </h2>
 
             <ArchitectureView
-              systemDesign={response.system_design}
+              design={response.system_design}
             />
 
           </div>
